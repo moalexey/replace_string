@@ -5,8 +5,13 @@
 
 import os
 
+# Find this string
 replace_this_string = 'replace mee'
-string_for_replace = 'this is text for replace'
+
+# Replacement text
+string_for_replace = 'This is a replacement text'
+
+# If file ends with simbols: .html or .htm
 file_ends_with = ('.html', '.htm')
 
 for root, dirs, files in os.walk('.'):
