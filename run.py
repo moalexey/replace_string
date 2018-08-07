@@ -6,10 +6,10 @@
 import os
 
 # Find this string
-replace_this_string = 'replace mee'
+replace_this_string = 'Old text'
 
 # Replacement text
-string_for_replace = 'This is a replacement text'
+string_for_replace = 'New text'
 
 # If file ends with simbols: .html or .htm
 file_ends_with = ('.html', '.htm')
