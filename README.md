@@ -1,1 +1,1 @@
-Replace text string in file if file ends with given simbols
+Replaces the string in all files of the directory below if file ends with given simbols.
